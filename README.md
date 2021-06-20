@@ -1,4 +1,4 @@
-# Instaloot
+# Quotes API
 
 Flask backend for instagram quotes.
 
