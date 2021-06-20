@@ -1,0 +1,1 @@
+nohup python3 script.py  &>> instalooter.log &
